@@ -1,0 +1,6 @@
+/node_modules
+/gulp/config/auth-rsync.js
+/gulp/config/auth-ftp.js
+.DS_Store
+/web
+/_PSD
